@@ -6,6 +6,9 @@ import hero_title from '../../assets/title.webp'
 import netflix_title from '../../assets/titl.webp'
 import play from '../../assets/play.png'
 import info from '../../assets/info-button.png'
+import Titlecards from '../../components/Titlecards/titlecards';
+import Footer from '../../components/footer/footer'
+
 
 const Player = () => {
   return (
@@ -23,8 +26,16 @@ const Player = () => {
           <button className='btn'><img src={play} alt=''/>Play</button>
           <button className='btn dark-btn'><img src={info} alt=''/>More Info</button>
         </div>
+        <Titlecards/>
         </div>
         </div>
+        <div className="more-cards">
+        <Titlecards title={"Blockbuster Movies"} className='titlecard' category={"top_rated"}/>
+        <Titlecards title={"Only on Netflix"} className='titlecard' category={"popular"}/>
+        <Titlecards title={"Upcoming"} className='titlecard' category={"upcoming"}/>
+        <Titlecards title={"Top pics for you"} className='titlecard' category={"now_playing"}/>
+        </div>
+        <Footer/>
     </div>
   )
 }
