@@ -10,6 +10,15 @@ A high-performance **Netflix Clone** built using **React + Vite**, featuring a m
 - **Responsive UI** (Mobile & Desktop Friendly)
 - **Optimized Performance with Vite**
 
+## 📸 Screenshots
+
+![Screenshot 2025-03-02 231308](https://github.com/user-attachments/assets/6f357fce-0028-440a-a82a-0e7dd4ef32c4)
+![Screenshot 2025-03-02 231326](https://github.com/user-attachments/assets/d917a9b1-8c1f-4bf0-8dad-413ee1df9f81)
+![Screenshot 2025-03-02 231350](https://github.com/user-attachments/assets/f96f58ae-88d0-4db9-8c6d-1e05fb709fef)
+![Screenshot 2025-03-02 231413](https://github.com/user-attachments/assets/3824066a-3ecb-4020-a3a3-f385ff755c38)
+![Screenshot 2025-03-02 231428](https://github.com/user-attachments/assets/6ae375ae-7692-492a-86b7-a3245d65e487)
+
+
 ## 🛠 Tech Stack
 
 - **Frontend:** React, Vite, Tailwind CSS
