@@ -1,6 +1,6 @@
 import React, {useEffect, useRef} from 'react'
 import './Navi.css'
-import logo from '../../assets/logo.png'
+import logo from '../../assets/Logo.png?url'
 import search_icon from '../../assets/search.png'
 import bell_icon from '../../assets/Bell.png'
 import profile_icon from '../../assets/profile.jpg'

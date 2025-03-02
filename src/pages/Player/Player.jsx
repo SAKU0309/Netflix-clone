@@ -1,7 +1,7 @@
 import React from 'react'
 import './Player.css'
 import Navi from '../../components/Navi/Navi'
-import hero_banner from '../../assets/movie.jpg'
+import hero_banner from '../../assets/movie.webp'
 import hero_title from '../../assets/title.webp'
 import netflix_title from '../../assets/titl.webp'
 import play from '../../assets/play.png'
