@@ -31,7 +31,7 @@ A high-performance **Netflix Clone** built using **React + Vite**, featuring a m
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/SAKU0309/netflix-clone.git
    cd netflix-clone
    ```
 
